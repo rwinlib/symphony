@@ -11,7 +11,7 @@
 /* #undef COINUTILS_HAS_CSTDINT */
 
 /* Version number of project */
-#define COINUTILS_VERSION "2.10.11"
+#define COINUTILS_VERSION "2.10.13"
 
 /* Major Version number of project */
 #define COINUTILS_VERSION_MAJOR 2
@@ -20,7 +20,7 @@
 #define COINUTILS_VERSION_MINOR 10
 
 /* Release Version number of project */
-#define COINUTILS_VERSION_RELEASE 11
+#define COINUTILS_VERSION_RELEASE 13
 
 /* Define to 64bit integer type */
 #define COIN_INT64_T int64_t
